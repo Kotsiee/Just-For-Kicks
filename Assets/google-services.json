@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376976261480",
+    "firebase_url": "https://just-for-kick-default-rtdb.firebaseio.com",
+    "project_id": "just-for-kick",
+    "storage_bucket": "just-for-kick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376976261480:android:c1e513bc18728249a816dd",
+        "android_client_info": {
+          "package_name": "com.Nameles.Justforkicks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376976261480-rclv0670389c9qa898prgbebi4enpk0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Nameles.Justforkicks",
+            "certificate_hash": "556d136e9f846d8c7bdb075fec228108b2dceecd"
+          }
+        },
+        {
+          "client_id": "376976261480-6vdp1kv6tm6bm88m5ag3nudtp4013vge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwnmWm1rfiZWUScMo6Xm9GRgoGvjs4wfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376976261480-6vdp1kv6tm6bm88m5ag3nudtp4013vge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "376976261480-hoo8u6i2ljuf8lu2tihc3r33n3i9k6b5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Nameles.Justforkicks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
