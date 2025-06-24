@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d202df3b507c9e440b52eb643a0f3811
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ball: {fileID: 553786243096255708, guid: f781aa2fe3eacf6498e0194b873604ff, type: 3}
+  - coin: {fileID: 233441833948903296, guid: 8073247d5dc3a8b4782bd9e65ea46cca, type: 3}
+  - obsticle: {fileID: 2222600722217976529, guid: 0ec849be9813d8a4386f7e247bf2886c, type: 3}
+  - selectedObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

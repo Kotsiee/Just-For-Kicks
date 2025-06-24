@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6610e496a9d71e7409309d92cd7fcc50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goal: {fileID: 6237841738297375091, guid: b50cb48048d14144eaa7a8ed560e14c5, type: 3}
+  - block: {fileID: 300310541288108931, guid: 14872b92bbc0f6e48b7e12860bb6e181, type: 3}
+  - noZone: {fileID: 6237841738297375091, guid: b50cb48048d14144eaa7a8ed560e14c5, type: 3}
+  - wallParent: {instanceID: 0}
+  - _wallGOParent: {instanceID: 0}
+  - goalSprite: {instanceID: 0}
+  - blockSprite: {instanceID: 0}
+  - noZoneSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
